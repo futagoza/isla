@@ -1,0 +1,17 @@
+{
+    "name": "@isla/scanner",
+    "version": "0.1.0-alpha.0",
+    "description": "Basic source scanner for Isla",
+    "keywords": [
+        "source",
+        "scanner",
+        "parser"
+    ],
+    "repository": "futagoza/isla",
+    "license": "MIT",
+    "author": "Futago-za Ryuu <futagoza.ryuu@gmail.com>",
+    "main": "index.js",
+    "engines": {
+        "node": ">= 8"
+    }
+}
